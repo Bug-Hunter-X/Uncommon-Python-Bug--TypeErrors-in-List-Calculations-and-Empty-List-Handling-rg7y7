@@ -1,0 +1,3 @@
+This repository demonstrates a subtle bug in Python related to list processing and error handling. The `bug.py` file contains the buggy code, which aims to calculate the average of numbers in a list.  It shows two potential problems: (1) not handling an empty list, (2) not handling a list that contains non-numbers.
+
+The `bugSolution.py` file presents a corrected version that includes robust error handling and input validation.
